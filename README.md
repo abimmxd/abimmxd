@@ -1,6 +1,6 @@
 ![logo](https://github.com/abimmxd/abimmxd/blob/main/homeSection2.c2f106d8.gif)
 <h1 align="center">Wassup 👋, I'm Abimm</h1>
-<h3 align="center">Im a Full Stack Developer</h3>
+<h3 align="center">I'm a Full Stack Developer ✨</h3>
 
 <img align="right" alt="coding" width="400" src="https://data.whicdn.com/images/255672977/original.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abimmxd&label=Profile%20views&color=0e75b6&style=flat" alt="abimmxd" /> </p>
