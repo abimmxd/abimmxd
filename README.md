@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **C,C++ and C#**
 
-- 🌐 I’m currently working project website <a href="https://dashboard-shinybot.my.id/" </a> **Shiny Website** 
+- 🌐 I’m currently working project website <a href="https://dashboard-shinybot.my.id/" target="blank" **Shiny Website** /></a> 
 
 - 💬 Ask me about **Javascript,HTML,PHP and CSS**
 
