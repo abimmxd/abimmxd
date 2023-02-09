@@ -9,7 +9,7 @@
 
 - 🌐 I’m currently working project website
 
-- <a href="https://dashboard-shinybot.my.id/" target="_blank">🌐 I’m currently working project website</u>&nbsp;></a>
+- 🌐 I’m currently working project website <a href="https://dashboard-shinybot.my.id/" target="_blank">🌐 Shiny Website</u>&nbsp;</a>
 
 - 💬 Ask me about **Javascript,HTML,PHP and CSS**
 
