@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Javascript,HTML,PHP and CSS**
 
-- 📫 My Discord **Abimm#4876**
+- 📫 My Discord **Abimm#0001**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
